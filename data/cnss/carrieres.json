@@ -1,0 +1,261 @@
+{ "carrieres": [
+    {
+      "id": "1",
+      "rownum": "1",
+      "matricule": "16228777",
+      "cle": "0",
+      "trimestre": "2",
+      "annee": "2009",
+      "salaire": "9903102",
+      "emp_mat": "210204",
+      "emp_cle": "5",
+      "classe": "null",
+      "companyId": "1",
+      "userId": "1",
+      "assure": {
+        "id": { "assMat": "16228777", "assCle": "0 " },
+        "regime": {
+          "regCod": "100",
+          "regLib": "REGIMEGENERAL",
+          "typeRegime": "4"
+        },
+        "assDteff": "2008-12-31T23:00:00.000+00:00"
+      },
+      "employeur": {
+        "id": { "empMat": "210204", "empCle": "5" },
+        "empRais": "SARL PIERRE FABRE MEDICAMENT TUNISIE PROMOTION DE L'INFORMAT",
+        "empRaisAr": " ميدكمان فابر بيار شركة"
+      }
+    },
+
+    {
+      "id": "2",
+      "rownum": "2",
+      "matricule": "16228777",
+      "cle": "0",
+      "trimestre": "3",
+      "annee": "2009",
+      "salaire": "8120206",
+      "emp_mat": "210204",
+      "emp_cle": "5",
+      "classe": null,
+      "companyId": "1",
+      "userId": "1",
+      "assure": {
+        "id": { "assMat": "16228777", "assCle": "0 " },
+        "regime": {
+          "regCod": "100",
+          "regLib": "REGIME GENERAL",
+          "typeRegime": "4"
+        },
+        "assDteff": "2008-12-31T23:00:00.000+00:00"
+      },
+      "employeur": {
+        "id": { "empMat": "210204", "empCle": "5" },
+        "empRais": "SARL PIERRE FABRE MEDICAMENT TUNISIE PROMOTION DE L'INFORMAT",
+        "empRaisAr": " ميدكمان فابر بيار شركة"
+      }
+    },
+
+    {
+      "id": "3",
+      "rownum": "3",
+      "matricule": "16228777",
+      "cle": "0",
+      "trimestre": "4",
+      "annee": "2009",
+      "salaire": "5006445",
+      "emp_mat": "210204",
+      "emp_cle": "5",
+      "classe": null,
+      "companyId": "1",
+      "userId": "1",
+      "assure": {
+        "id": { "assMat": "16228777", "assCle": "0" },
+        "regime": {
+          "regCod": "100",
+          "regLib": "REGIME GENERAL",
+          "typeRegime": "4"
+        },
+        "assDteff": "2008-12-31T23:00:00.000+00:00"
+      },
+      "employeur": {
+        "id": { "empMat": "210204", "empCle": "5" },
+        "empRais": "SARL PIERRE FABRE MEDICAMENT TUNISIE PROMOTION DE L'INFORMAT",
+        "empRaisAr": " ميدكمان فابر بيار شركة"
+      }
+    },
+
+    {
+      "id": "4",
+      "rownum": "4",
+      "matricule": "16228777",
+      "cle": "0",
+      "trimestre": "1",
+      "annee": "2010",
+      "salaire": "11978472",
+      "emp_mat": "210204",
+      "emp_cle": "5",
+      "classe": null,
+      "companyId": "1",
+      "userId": "1",
+      "assure": {
+        "id": { "assMat": "16228777", "assCle": "0" },
+        "regime": {
+          "regCod": "100",
+          "regLib": "REGIME GENERAL",
+          "typeRegime": "4"
+        },
+        "assDteff": "2008-12-31T23:00:00.000+00:00"
+      },
+      "employeur": {
+        "id": { "empMat": "210204", "empCle": "5" },
+        "empRais": "SARL PIERRE FABRE MEDICAMENT TUNISIE PROMOTION DE L'INFORMAT",
+        "empRaisAr": " ميدكمان فابر بيار شركة"
+      }
+    },
+
+    {
+      "id": "5",
+      "rownum": "5",
+      "matricule": "16228777",
+      "cle": "0",
+      "trimestre": "2",
+      "annee": "2010",
+      "salaire": "8774613",
+      "emp_mat": "210204",
+      "emp_cle": "5",
+      "classe": null,
+      "companyId": "1",
+      "userId": "1",
+      "assure": {
+        "id": { "assMat": "16228777", "assCle": "0" },
+        "regime": {
+          "regCod": "100",
+          "regLib": "REGIME GENERAL",
+          "typeRegime": "4"
+        },
+        "assDteff": "2008-12-31T23:00:00.000+00:00"
+      },
+      "employeur": {
+        "id": { "empMat": "210204", "empCle": "5" },
+        "empRais": "SARL PIERRE FABRE MEDICAMENT TUNISIE PROMOTION DE L'INFORMAT",
+        "empRaisAr": " ميدكمان فابر بيار شركة"
+      }
+    },
+    {
+      "id": "6",
+      "rownum": "6",
+      "matricule": "16228777",
+      "cle": "0",
+      "trimestre": "3",
+      "annee": "2010",
+      "salaire": "9045176",
+      "emp_mat": "210204",
+      "emp_cle": "5",
+      "classe": null,
+      "companyId": "1",
+      "userId": "1",
+      "assure": {
+        "id": { "assMat": "16228777", "assCle": "0" },
+        "regime": {
+          "regCod": "100",
+          "regLib": "REGIME GENERAL",
+          "typeRegime": "4"
+        },
+        "assDteff": "2008-12-31T23:00:00.000+00:00"
+      },
+      "employeur": {
+        "id": { "empMat": "210204", "empCle": "5" },
+        "empRais": "SARL PIERRE FABRE MEDICAMENT TUNISIE PROMOTION DE L'INFORMAT",
+        "empRaisAr": " ميدكمان فابر بيار شركة"
+      }
+    },
+
+    {
+      "id": "7",
+      "rownum": "7",
+      "matricule": "16228777",
+      "cle": "0",
+      "trimestre": "4",
+      "annee": "2010",
+      "salaire": "5651116",
+      "emp_mat": "210204",
+      "emp_cle": "5",
+      "classe": null,
+      "companyId": "1",
+      "userId": "1",
+      "assure": {
+        "id": { "assMat": "16228777", "assCle": "0" },
+        "regime": {
+          "regCod": "100",
+          "regLib": "REGIME GENERAL",
+          "typeRegime": "4"
+        },
+        "assDteff": "2008-12-31T23:00:00.000+00:00"
+      },
+      "employeur": {
+        "id": { "empMat": "210204", "empCle": "5" },
+        "empRais": "SARL PIERRE FABRE MEDICAMENT TUNISIE PROMOTION DE L'INFORMAT",
+        "empRaisAr": " ميدكمان فابر بيار شركة"
+      }
+    },
+
+    {
+      "id": "8",
+      "rownum": "8",
+      "matricule": "16228777",
+      "cle": "0",
+      "trimestre": "1",
+      "annee": "2011",
+      "salaire": "10457584",
+      "emp_mat": "210204",
+      "emp_cle": "5",
+      "classe": null,
+      "companyId": "1",
+      "userId": "1",
+      "assure": {
+        "id": { "assMat": "16228777", "assCle": "0" },
+        "regime": {
+          "regCod": "100",
+          "regLib": "REGIME GENERAL",
+          "typeRegime": "4"
+        },
+        "assDteff": "2008-12-31T23:00:00.000+00:00"
+      },
+      "employeur": {
+        "id": { "empMat": "210204", "empCle": "5" },
+        "empRais": "SARL PIERRE FABRE MEDICAMENT TUNISIE PROMOTION DE L'INFORMAT",
+        "empRaisAr": " ميدكمان فابر بيار شركة"
+      }
+    },
+
+    {
+      "id": "9",
+      "rownum": "9",
+      "matricule": "16228777",
+      "cle": "0",
+      "trimestre": "2",
+      "annee": "2011",
+      "salaire": "10817514",
+      "emp_mat": "210204",
+      "emp_cle": "5",
+      "classe": null,
+      "companyId": "1",
+      "userId": "1",
+      "assure": {
+        "id": { "assMat": "16228777", "assCle": "0" },
+        "regime": {
+          "regCod": "100",
+          "regLib": "REGIME GENERAL",
+          "typeRegime": "4"
+        },
+        "assDteff": "2008-12-31T23:00:00.000+00:00"
+      },
+      "employeur": {
+        "id": { "empMat": "210204", "empCle": "5" },
+        "empRais": "SARL PIERRE FABRE MEDICAMENT TUNISIE PROMOTION DE L'INFORMAT",
+        "empRaisAr": " ميدكمان فابر بيار شركة"
+      }
+    }
+  ]}

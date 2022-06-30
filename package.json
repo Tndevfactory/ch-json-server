@@ -1,0 +1,23 @@
+{
+  "name": "ch-json-server",
+  "version": "1.0.0",
+  "description": "utility to mock api fastly based on json data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tndevfactory/ch-json-server.git"
+  },
+  "keywords": [ "tndev-art.com, json-server,heroku, node, REST API"],
+  "author": "tndev-art",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tndevfactory/ch-json-server/issues"
+  },
+  "homepage": "https://github.com/Tndevfactory/ch-json-server#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}

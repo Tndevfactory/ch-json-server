@@ -1,0 +1,155 @@
+{
+    "consultation-affaire-steg": 
+    {
+      "reference": "000396700",
+      "etat": {
+          "code": 0,
+          "libelleFr": "ABONNE EN SERVICE",
+          "libelleAr": "None"
+      },
+      "etatEnc": "N",
+      "derniereFacture": {
+          "dateEmission": "2022-05-05",
+          "typeFacture": {
+              "code": 3,
+              "libelleFr": "FACTURE ESTIMEE",
+              "libelleAr": "Yacine Ben Ahmed"
+          },
+          "dateDebutConso": "2021-09-02",
+          "dateFinConso": "2022-05-05",
+          "consommationElecs": {
+              "consommation": [
+                  {
+                      "compteur": {
+                          "numero": "21267",
+                          "tarif": {
+                              "code": 11,
+                              "libelleFr": "21267    ECLAIRAGE",
+                              "libelleAr": "ECLAIRAGE"
+                          }
+                      },
+                      "nombreDeMois": 8,
+                      "ancienIndex": 133189,
+                      "nouveauIndex": 133189,
+                      "coefficient": 1.0,
+                      "qteConso": 7104,
+                      "prixUnitaire": 414,
+                      "puissanceDebit": 13,
+                      "moyMensuelle": "None",
+                      "tva": 13,
+                      "montantConso": 2299744
+                  }
+              ]
+          },
+          "fraisFixesElecs": {
+              "fraisFixe": [
+                  {
+                      "compteur": {
+                          "numero": "21267",
+                          "tarif": {
+                              "code": 11,
+                              "libelleFr": " ECLAIRAGE",
+                              "libelleAr": "None"
+                          }
+                      },
+                      "nombreDeMois": 8,
+                      "libelle": "ECLAIRAGE",
+                      "puissanceDebit": 13,
+                      "tva": 19,
+                      "prixUnitaire": "None",
+                      "montant": 72800
+                  }
+              ]
+          },
+          "totalElectricite": 2372544,
+          "consommationGaz": {
+              "consommation": [
+                  {
+                      "compteur": {
+                          "numero": "6920377",
+                          "tarif": {
+                              "code": 40,
+                              "libelleFr": "6920377   GAZ-NATUR",
+                              "libelleAr": "None"
+                          }
+                      },
+                      "nombreDeMois": 4,
+                      "ancienIndex": 57946,
+                      "nouveauIndex": 58962,
+                      "coefficient": 1.0,
+                      "qteConso": 1016,
+                      "prixUnitaire": 824,
+                      "puissanceDebit": 10,
+                      "moyMensuelle": "None",
+                      "tva": 19,
+                      "montantConso": 576762
+                  }
+              ]
+          },
+          "fraisFixesGaz": {
+              "compteur": {
+                  "numero": "6920377",
+                  "tarif": {
+                      "code": 40,
+                      "libelleFr": "6920377   GAZ-NATUR",
+                      "libelleAr": "None"
+                  }
+              },
+              "nombreDeMois": 4,
+              "libelle": "   GAZ-NATUR",
+              "puissanceDebit": 10,
+              "tva": "None",
+              "prixUnitaire": "None",
+              "montant": 6000
+          },
+          "totalGaz": 582762,
+          "listeServices": "None",
+          "sousTotalServices": 0,
+          "sousTotalConsomService": 2955306,
+          "listeTaxes": {
+              "taxe": [
+                  {
+                      "libelle": "RTT",
+                      "puTaux": "None",
+                      "qte": "None",
+                      "montant": 28000
+                  },
+                  {
+                      "libelle": "Fonds de la transition energetique electricite",
+                      "puTaux": "None",
+                      "qte": "None",
+                      "montant": 7104
+                  },
+                  {
+                      "libelle": "Fonds de la transition energetique gaz",
+                      "puTaux": "None",
+                      "qte": "None",
+                      "montant": 2438
+                  },
+                  {
+                      "libelle": "Surtaxe Municipale",
+                      "puTaux": "None",
+                      "qte": "None",
+                      "montant": 35520
+                  },
+                  {
+                      "libelle": "TVA",
+                      "puTaux": "None",
+                      "qte": "None",
+                      "montant": 423524
+                  }
+              ]
+          },
+          "sousTotalTaxes": 496586,
+          "sousTotConsomServTaxe": 3451892,
+          "arieres": 0,
+          "payementPrecedents": -1370198,
+          "netAPayer": 2081000,
+          "dateLimitePayement": "2022-05-27",
+          "dateProchaineReleve": "2022-09-02",
+          "cleFacture": "5W",
+          "montantEnLibelle": "DEUX MILLE QUATRE-VINGT UN  DINARS ZERO MLLIMES, TTC",
+          "codeABarre": "160000396700000020810005W"
+      }
+  }
+}
