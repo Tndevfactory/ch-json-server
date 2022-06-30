@@ -1,7 +1,7 @@
-const cnrps_assures = require("./data/cnrps/assures.json");
-const cnrps_pensions = require("./data/cnrps/pensions.json");
-const cnss_carrieres = require("./data/cnss/carrieres.json");
-const steg_affaires = require("./data/steg/affaires.json");
+const cnrps_assures = require("./data/cnrps/cnrps_assures.json");
+const cnrps_pensions = require("./data/cnrps/cnrps_pensions.json");
+const cnss_carrieres = require("./data/cnss/cnss_carrieres.json");
+const steg_affaires = require("./data/steg/steg_affaires.json");
 
 module.exports = {
   cnrps_assures,
